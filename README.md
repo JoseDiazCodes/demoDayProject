@@ -1,62 +1,69 @@
-# **SmartEdu Buddy**
-
-#### **Development Status:**
-
-🚧 This project is in its initial stages—a concept in bloom. I am dedicating over 100+ hours to fleshing out this vision. Keep in mind, this is the inception, and there will be continuous refinement as development advances.
+# **AI-Powered Study Buddy**
 
 ---
 
-## 🌟 **Why I'm Building This:**
+## 🚧 **Development Status**
 
-Raised in Boston's public education system, I've been on the frontlines of the educational disparities. With many students getting access to learning resources tailored just for them, a large portion is left grappling due to economic constraints. **SmartEdu Buddy** is my heartfelt initiative to level the educational field so every student receives a learning experience fine-tuned to their persona.
-
----
-
-## 🔍 **The Problem:**
-
-A significant number of students face challenges in subjects primarily because the pedagogical methods aren't in harmony with their inherent learning style. Be it visual, auditory, or kinesthetic preferences, every student merits resources and tools designed with their style in mind.
+Currently in the early stages of development, this project is an evolving concept, and I am dedicating over 100+ hours to bring it to life. As we progress, expect continuous improvements and refinements.
 
 ---
 
-## 📚 **Driven by Research:**
+## 🌟 **Project Vision and Mission**
 
-Currently, I'm delving deep into scientific literature and studies centered around learning styles. This research focuses on understanding the underlying mechanisms of different learning preferences and gathering insights on how best to cater to each style. This ensures SmartEdu Buddy is not just intuitive but also backed by solid educational science.
-
----
-
-## 🚀 **What I'm Building:**
-
-Centered on **Math**, SmartEdu Buddy is crafted to:
-
-- Diagnose a student's specific learning style.
-- Introduce math resources and techniques precisely matched to that style.
+In the pursuit of democratizing education and providing personalized learning tools, the **AI-Powered Study Buddy** emerges as a solution for middle school and high school students. This application is designed to adapt to each student’s learning needs, offering a tailored approach to study and revision.
 
 ---
 
-## 💡 **How It Works / Features:**
+## 🔍 **The Problem at Hand**
 
-1. **Quiz to Identify Learning Style**:
-
-   - A concise, engaging multiple-choice quiz.
-   - Pinpoints if the student is a visual, auditory, or kinesthetic learner.
-
-2. **Tailored Math Resources**:
-   - Following the quiz, students are navigated to a results page.
-   - They are presented with math study materials fine-tuned to their discerned learning style.
-3. **User-Friendly Design**:
-   - **Home Page**: A welcoming intro to SmartEdu Buddy with a direct access button for the quiz.
-   - **Quiz Page**: The heart of the app—a sequence of questions culminating in insightful results.
-   - **Results Page**: A detailed view of the student's learning style, paired with pertinent math resources.
+Conventional study methods can be monotonous and might not yield efficient learning outcomes. Students require a dynamic solution that adjusts to their individual learning pace, providing timely and relevant material for practice.
 
 ---
 
-## 🌱 **Looking Ahead:**
+## 📚 **Research-Driven Approach**
 
-1. **Progress Tracking**: A feature empowering students or guardians to oversee learning milestones and growth.
-2. **Extended Learning Resources**: A dedicated corner spotlighting more resources aligned with each learning style.
+Built upon the principles of spaced repetition, a scientifically-backed learning technique, the **AI-Powered Study Buddy** leverages AI to generate pertinent questions from textual content provided by the user. This approach ensures active engagement and bolstered memory retention.
 
 ---
 
-## 💌 **The Essence of SmartEdu Buddy:**
+## 🚀 **Core Functionality and Features**
 
-SmartEdu Buddy is not merely an app—it's an embodiment of a mission, deeply rooted in my own educational journey. My aim is to assure that every student, no matter their background or means, is accorded an equitable chance at comprehension and growth.
+### **1. Passage Input:**
+
+- A dedicated space for students to input textual study material.
+- The integrated AI analyzes the text and generates practice questions, facilitating spaced repetition.
+
+### **2. Spaced Repetition Practice:**
+
+- Tailored review sessions are scheduled based on the student’s performance, optimizing the intervals for repetition.
+- The application presents questions, promoting active recall and fortifying memory retention.
+
+### **3. Comprehensive Performance Tracking:**
+
+- Detailed insights into the student’s progress, pinpointing strengths and areas needing attention.
+- A variety of metrics are provided, including but not limited to:
+  - **Study Time**: Total time spent in study sessions.
+  - **Accuracy**: Percentage of questions answered correctly.
+  - **Retention Rate**: How well information is being retained over time.
+  - **Card Maturity**: Average age of the questions in terms of successful recall.
+- Visual representations (graphs, charts) of performance and progress.
+
+### **4. User-Friendly Interface:**
+
+- **Home Page**: Welcoming introduction, benefits of the app, and a call-to-action to start a study session.
+- **Input Page**: Where students input their study material.
+- **Study Session Page**: The interactive space for spaced repetition practice.
+- **Progress Page**: A visual dashboard displaying the user’s metrics and progress.
+
+---
+
+## 🌱 **Future Enhancements**
+
+- **Community Feature**: A space for students to share and access a diverse range of study materials and questions.
+- **Resource Recommendations**: Personalized suggestions for additional study materials, tailored to the user’s needs and performance.
+
+---
+
+## 💌 **Conclusion and Vision for the Future**
+
+The **AI-Powered Study Buddy** is not just a study tool; it is a learning companion, dedicated to providing individualized support and insights to students. As we bridge the gap between technology and education, our vision is to empower students, enabling them to unlock their full potential through effective, personalized learning experiences.
