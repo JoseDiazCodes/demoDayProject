@@ -42,7 +42,7 @@ _An initiative to bridge the educational gap_
 
 ## Development Status
 
-> Currently in development, with over 100+ hours invested to craft an impactful and user-friendly learning experience.
+> Currently in development, with plans of investing over 100+ hours to craft an impactful and user-friendly learning experience.
 
 ---
 
