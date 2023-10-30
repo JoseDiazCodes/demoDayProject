@@ -1,3 +1,8 @@
+Certainly! Here's your text with all instances of "AI-Powered Study Buddy" replaced with "KnowledgeNinja":
+
+markdown
+Copy code
+
 # 🎓 KnowledgeNinja
 
 **"Master the Art of Learning" | "Swift, Smart, Study" | "Unleash Your Brain’s Potential"**
@@ -29,7 +34,7 @@ _An initiative to bridge the educational gap_
     - [4. Performance Analytics](#4-performance-analytics)
   - [Future Enhancements](#future-enhancements)
   - [Empowering Learning How to Learn](#empowering-learning-how-to-learn)
-- [AI-Powered Study Buddy Wireframe](#ai-powered-study-buddy-wireframe)
+- [KnowledgeNinja Wireframe](#knowledgeninja-wireframe)
   - [Login Page](#login-page)
   - [Sign Up Page](#sign-up-page)
   - [Home Page](#home-page)
@@ -48,7 +53,7 @@ _An initiative to bridge the educational gap_
 
 ## Project Vision and Mission
 
-> **AI-Powered Study Buddy** aims to democratize education, offering a personalized and adaptive learning solution for middle and high school students. With my background as an early education teacher, I've witnessed firsthand the gaps in the public educational system — and this project is my endeavor to bridge those gaps, ensuring that quality education is accessible and effective for every student.
+> **KnowledgeNinja** aims to democratize education, offering a personalized and adaptive learning solution for middle and high school students. With my background as an early education teacher, I've witnessed firsthand the gaps in the public educational system — and this project is my endeavor to bridge those gaps, ensuring that quality education is accessible and effective for every student.
 
 ---
 
@@ -101,11 +106,11 @@ _An initiative to bridge the educational gap_
 
 ---
 
-# AI-Powered Study Buddy Wireframe
+# KnowledgeNinja Wireframe
 
 ## Login Page
 
-- **Header**: AI-Powered Study Buddy Logo
+- **Header**: KnowledgeNinja Logo
 - **Main Content**:
   - Email Input Field
   - Password Input Field
@@ -115,7 +120,7 @@ _An initiative to bridge the educational gap_
 
 ## Sign Up Page
 
-- **Header**: AI-Powered Study Buddy Logo
+- **Header**: KnowledgeNinja Logo
 - **Main Content**:
   - Name Input Field
   - Email Input Field
@@ -127,13 +132,13 @@ _An initiative to bridge the educational gap_
 
 ## Home Page
 
-- **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
+- **Header**: KnowledgeNinja Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**: Welcome Message, Brief Description, "Start Study Session" Button
 - **Footer**: Contact Information, Links to Social Media
 
 ## Excerpt Input Page
 
-- **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
+- **Header**: KnowledgeNinja Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
   - Text Area for Inputting Study Material (Data saved to database on submission)
   - Submit Button to Generate Flashcards (Triggers backend processing and database update)
@@ -141,7 +146,7 @@ _An initiative to bridge the educational gap_
 
 ## Study Session Page
 
-- **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
+- **Header**: KnowledgeNinja Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
   - Flashcard Display (Front: Question, Back: Answer, Data loaded from database)
   - Buttons for Answer Feedback (Updates flashcard status and scheduling in the database)
@@ -150,7 +155,7 @@ _An initiative to bridge the educational gap_
 
 ## Progress Page
 
-- **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
+- **Header**: KnowledgeNinja Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
   - Performance Graphs and Charts (Data loaded from database)
   - Metrics Display (Study Time, Accuracy, Retention Rate, Card Maturity, Data loaded from database)
@@ -160,7 +165,7 @@ _An initiative to bridge the educational gap_
 
 ## Conclusion and Commitment to Education
 
-> With **AI-Powered Study Buddy**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
+> With **KnowledgeNinja**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
 
 <!-- first draft -->
 <!-- # **AI-Powered Study Buddy**
