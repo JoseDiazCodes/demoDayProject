@@ -1,5 +1,33 @@
 # 🎓 **AI-Powered Study Buddy**
 
+_An initiative to bridge the educational gap_
+
+---
+
+## Table of Contents
+
+- [🎓 **AI-Powered Study Buddy**](#-ai-powered-study-buddy)
+  - [Table of Contents](#table-of-contents)
+  - [🚧 Development Status](#-development-status)
+  - [🌟 Project Vision and Mission](#-project-vision-and-mission)
+  - [🔍 The Challenge](#-the-challenge)
+  - [📚 Research-Driven Innovation](#-research-driven-innovation)
+  - [Core Features](#core-features)
+    - [1. User Authentication and Personalization](#1-user-authentication-and-personalization)
+    - [2. Excerpt Input](#2-excerpt-input)
+    - [3. Spaced Repetition Practice](#3-spaced-repetition-practice)
+    - [4. Performance Analytics](#4-performance-analytics)
+  - [🌱 Future Enhancements](#-future-enhancements)
+  - [🧠 Empowering Learning How to Learn](#-empowering-learning-how-to-learn)
+- [🎓 AI-Powered Study Buddy Wireframe](#-ai-powered-study-buddy-wireframe)
+  - [Login Page](#login-page)
+  - [Sign Up Page](#sign-up-page)
+  - [Home Page](#home-page)
+  - [Excerpt Input Page](#excerpt-input-page)
+  - [Study Session Page](#study-session-page)
+  - [Progress Page](#progress-page)
+  - [Conclusion and Commitment to Education](#conclusion-and-commitment-to-education)
+
 ---
 
 ## 🚧 Development Status
@@ -26,7 +54,7 @@ Built upon proven learning principles such as spaced repetition and active recal
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 ### 1. User Authentication and Personalization
 
@@ -65,7 +93,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
 
 # 🎓 AI-Powered Study Buddy Wireframe
 
-## 🚪 Login Page
+## Login Page
 
 - **Header**: AI-Powered Study Buddy Logo
 - **Main Content**:
@@ -75,7 +103,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
   - "Sign Up" link for new users
 - **Footer**: Contact Information, Links to Social Media
 
-## 📝 Sign Up Page
+## Sign Up Page
 
 - **Header**: AI-Powered Study Buddy Logo
 - **Main Content**:
@@ -87,13 +115,13 @@ By anchoring the application in scientific learning principles, we aim to teach 
   - "Login" link for existing users
 - **Footer**: Contact Information, Links to Social Media
 
-## 🏠 Home Page
+## Home Page
 
 - **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**: Welcome Message, Brief Description, "Start Study Session" Button
 - **Footer**: Contact Information, Links to Social Media
 
-## 📃 Excerpt Input Page
+## Excerpt Input Page
 
 - **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
@@ -101,7 +129,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
   - Submit Button to Generate Flashcards (Triggers backend processing and database update)
 - **Footer**: Contact Information, Links to Social Media
 
-## 📚 Study Session Page
+## Study Session Page
 
 - **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
@@ -110,7 +138,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
   - Timer/Progress Bar
 - **Footer**: Contact Information, Links to Social Media
 
-## 📊 Progress Page
+## Progress Page
 
 - **Header**: AI-Powered Study Buddy Logo, Navigation Menu (Home, Study Session, Progress, Logout)
 - **Main Content**:
@@ -120,7 +148,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
 
 ---
 
-## 💌 Conclusion and Commitment to Education
+## Conclusion and Commitment to Education
 
 With **AI-Powered Study Buddy**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
 
