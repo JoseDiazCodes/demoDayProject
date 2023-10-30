@@ -3,9 +3,9 @@
 **"Master the Art of Learning" | "Swift, Smart, Study" | "Unleash Your Brain’s Potential"**
 
 > KnowledgeNinja embodies the spirit of a true learning master. Like a ninja, you will become highly trained, agile, and equipped with a variety of skills to navigate through your educational journey.
-
+>
 > With KnowledgeNinja, mastering learning techniques, swiftly recalling information, and skillfully overcoming educational challenges becomes second nature.
-
+>
 > Embrace the art of learning and become the KnowledgeNinja you were meant to be.
 
 ---
