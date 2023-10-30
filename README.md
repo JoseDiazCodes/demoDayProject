@@ -8,18 +8,18 @@ _An initiative to bridge the educational gap_
 
 - [🎓 **AI-Powered Study Buddy**](#-ai-powered-study-buddy)
   - [Table of Contents](#table-of-contents)
-  - [🚧 Development Status](#-development-status)
-  - [🌟 Project Vision and Mission](#-project-vision-and-mission)
-  - [🔍 The Challenge](#-the-challenge)
-  - [📚 Research-Driven Innovation](#-research-driven-innovation)
+  - [Development Status](#development-status)
+  - [Project Vision and Mission](#project-vision-and-mission)
+  - [The Challenge](#the-challenge)
+  - [Research-Driven Innovation](#research-driven-innovation)
   - [Core Features](#core-features)
     - [1. User Authentication and Personalization](#1-user-authentication-and-personalization)
     - [2. Excerpt Input](#2-excerpt-input)
     - [3. Spaced Repetition Practice](#3-spaced-repetition-practice)
     - [4. Performance Analytics](#4-performance-analytics)
-  - [🌱 Future Enhancements](#-future-enhancements)
-  - [🧠 Empowering Learning How to Learn](#-empowering-learning-how-to-learn)
-- [🎓 AI-Powered Study Buddy Wireframe](#-ai-powered-study-buddy-wireframe)
+  - [Future Enhancements](#future-enhancements)
+  - [Empowering Learning How to Learn](#empowering-learning-how-to-learn)
+- [AI-Powered Study Buddy Wireframe](#ai-powered-study-buddy-wireframe)
   - [Login Page](#login-page)
   - [Sign Up Page](#sign-up-page)
   - [Home Page](#home-page)
@@ -30,27 +30,27 @@ _An initiative to bridge the educational gap_
 
 ---
 
-## 🚧 Development Status
+## Development Status
 
-Currently in development, with over 100+ hours invested to craft an impactful and user-friendly learning experience.
-
----
-
-## 🌟 Project Vision and Mission
-
-**AI-Powered Study Buddy** aims to democratize education, offering a personalized and adaptive learning solution for middle and high school students. With my background as an early education teacher, I've witnessed firsthand the gaps in the public educational system — and this project is my endeavor to bridge those gaps, ensuring that quality education is accessible and effective for every student.
+> Currently in development, with over 100+ hours invested to craft an impactful and user-friendly learning experience.
 
 ---
 
-## 🔍 The Challenge
+## Project Vision and Mission
 
-Traditional study methods often fall short, especially in a one-size-fits-all educational system. Students require a solution that understands their individual pace and offers material that is both timely and relevant.
+> **AI-Powered Study Buddy** aims to democratize education, offering a personalized and adaptive learning solution for middle and high school students. With my background as an early education teacher, I've witnessed firsthand the gaps in the public educational system — and this project is my endeavor to bridge those gaps, ensuring that quality education is accessible and effective for every student.
 
 ---
 
-## 📚 Research-Driven Innovation
+## The Challenge
 
-Built upon proven learning principles such as spaced repetition and active recall, our application turns student-provided text into interactive practice questions. This approach ensures constant engagement and significantly boosts memory retention.
+> Traditional study methods often fall short, especially in a one-size-fits-all educational system. Students require a solution that understands their individual pace and offers material that is both timely and relevant.
+
+---
+
+## Research-Driven Innovation
+
+> Built upon proven learning principles such as spaced repetition and active recall, our application turns student-provided text into interactive practice questions. This approach ensures constant engagement and significantly boosts memory retention.
 
 ---
 
@@ -78,20 +78,20 @@ Built upon proven learning principles such as spaced repetition and active recal
 
 ---
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
 - **Community Feature**: Create a collaborative space where students can share and access a variety of study materials.
 - **Resource Recommendations**: Offer tailored suggestions for additional study materials based on individual performance and needs.
 
 ---
 
-## 🧠 Empowering Learning How to Learn
+## Empowering Learning How to Learn
 
-By anchoring the application in scientific learning principles, we aim to teach students not just what to learn, but how to learn. This is a crucial skill that will serve them throughout their lives, fostering independence and a love for learning.
+> By anchoring the application in scientific learning principles, we aim to teach students not just what to learn, but how to learn. This is a crucial skill that will serve them throughout their lives, fostering independence and a love for learning.
 
 ---
 
-# 🎓 AI-Powered Study Buddy Wireframe
+# AI-Powered Study Buddy Wireframe
 
 ## Login Page
 
@@ -150,7 +150,7 @@ By anchoring the application in scientific learning principles, we aim to teach 
 
 ## Conclusion and Commitment to Education
 
-With **AI-Powered Study Buddy**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
+> With **AI-Powered Study Buddy**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
 
 <!-- first draft -->
 <!-- # **AI-Powered Study Buddy**
