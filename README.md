@@ -27,6 +27,7 @@ _An initiative to bridge the educational gap_
     - [2. Excerpt Input](#2-excerpt-input)
     - [3. Spaced Repetition Practice](#3-spaced-repetition-practice)
     - [4. Performance Analytics](#4-performance-analytics)
+  - [Custom GPT Integration](#custom-gpt-integration)
   - [Future Enhancements](#future-enhancements)
   - [Empowering Learning How to Learn](#empowering-learning-how-to-learn)
 - [KnowledgeNinja Wireframe](#knowledgeninja-wireframe)
@@ -85,6 +86,23 @@ _An initiative to bridge the educational gap_
 
 - **What It Does**: Delivers in-depth insights into each student's progress and areas of mastery.
 - **The Benefit**: Equips students with the knowledge of where they excel and where they need to focus, fostering a sense of accountability and direction in their studies.
+
+---
+
+## Custom GPT Integration
+
+> **Objective**: Implement a custom GPT model using the Assistant API, trained on the "Learning How to Learn" methodology. This model will generate spaced repetition questions from student-provided excerpts, revolutionizing the way students study.
+
+- **Implementation Plan**:
+
+  1. **API Integration**: Seamlessly integrate the Assistant API to leverage a custom GPT model.
+  2. **Data Preparation**: Compile a dataset focusing on learning techniques and comprehension skills.
+  3. **Model Training**: Train the custom GPT model on the prepared dataset to specialize in generating educational content.
+  4. **Excerpt Processing**: Develop a system where students can input their study material, which is then processed by the custom GPT model.
+  5. **Question Generation**: Use the trained model to create spaced repetition questions based on the key concepts and ideas in the student-provided excerpts.
+  6. **Continuous Learning**: Implement feedback loops to continuously improve the question generation algorithm based on user interactions and success rates.
+
+- **The Benefit**: This feature will enable KnowledgeNinja to offer highly personalized and effective study tools, making the learning process more interactive and engaging for students.
 
 ---
 
@@ -160,4 +178,4 @@ _An initiative to bridge the educational gap_
 
 ## Conclusion and Commitment to Education
 
-> With **KnowledgeNinja**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background or learning style.
+> With **KnowledgeNinja**, we are not just building a study tool; we are nurturing a learning companion. This project is a heartfelt commitment to bridging the educational divide, ensuring that every student has the opportunity to thrive, regardless of their background
